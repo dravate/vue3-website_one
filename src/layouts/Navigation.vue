@@ -1,5 +1,4 @@
 <template>
-  <div class="hello">
    <nav>
   <ul class="menu" v-bind:class="{ active: isActive}">
     <li class="logo"><a href="#">V3 Services</a></li>
@@ -46,7 +45,6 @@
 </nav>
 
 
-  </div>
 </template>
 
 <script>

@@ -1,14 +1,14 @@
 <template>
-  <Navigation />
+  <Main />
 </template>
 
 <script>
-import Navigation from './layouts/Navigation.vue'
+import Main from './layouts/Main.vue'
 
 export default {
   name: 'App',
   components: {
-    Navigation 
+    Main 
   }
 }
 </script>

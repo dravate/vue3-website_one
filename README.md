@@ -1,4 +1,7 @@
-# responsivenavigation
+# V3 and Django Webapplication  
+
+This is a responsive layout based on Flexbox, CSS, media queries and Vue3. 
+The backend for this Web Application is Django
 
 ## Project setup
 ```
